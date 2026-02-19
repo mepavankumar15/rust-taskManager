@@ -21,3 +21,7 @@ A desktop task manager built using Rust and egui.
 
 ```bash
 cargo run
+
+```
+## Release v1.0.0 
+download it via release session
